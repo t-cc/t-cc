@@ -18,7 +18,7 @@ class FullStackDeveloper:
         return u"I'm %s, a %s." % (self.name, self.role)
 
     def get_current_workplace(self):
-        return 'https://cconorte.com'
+        return 'https://z1.digital'
 
     def get_frontend_skills(self):
         return [
