@@ -24,7 +24,6 @@ class FullStackDeveloper:
         return [
             'react',
             'flutter',
-            'react-native',
             'tailwind',
             'sass',
             'vanilla js'
